@@ -49,8 +49,8 @@
 
 ### Equipment 🧰
 
-- `Laptop` - Lenovo Ideapad L340 Gaming
-  - `CPU` - Intel Core i7-9750HF
+- `Laptop` - Lenovo LOQ Gaming 
+  - `CPU` - Intel Core i5-13450HX RTX-4050
   - `RAM` - 32 GB
   - `Operating System` - GNU/Linux
 - `Text Editor` - VSCodium, Neovim (Nixvim)
