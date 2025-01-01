@@ -13,9 +13,9 @@
 ### About Me 👨🏻
 
 - 👨🏻‍💼 My name is `Andi Nugroho`
-- 🏠 Live in `Cirebon, Indonesia`
+- 🏠 Live in `West Java, Indonesia`
 - 🧍🏻‍♂️ `18` years old
-- 💻 `Informatics Engineering` Student at `Muhammadiyah University Cirebon`
+- 💻 `Informatics Engineering` Student 
 - 🌟 Currently, `Python`, and `TypeScript` are my favorite tech.
 - 🌏 Languages
   - 🇮🇩 Indonesian
