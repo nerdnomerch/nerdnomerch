@@ -6,7 +6,7 @@
   <img src='./images/readmebox_tfkhdyt.svg' alt='tfkhdyt header' width='100%' />
 </a> -->
 
-<h3 align=center>Full Stack Developer | Informatics Engineering Student | Linux Enthusiast</h3>
+<h3 align=center>Full Stack Developer | Linux Enthusiast</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -15,7 +15,7 @@
 - 👨🏻‍💼 My name is `Andi Nugroho`
 - 🏠 Live in `West Java, Indonesia`
 - 🧍🏻‍♂️ `18` years old
-- 💻 `Informatics Engineering` Student 
+- 💻 `Informatics Engineering`  
 - 🌟 Currently, `Python`, and `TypeScript` are my favorite tech.
 - 🌏 Languages
   - 🇮🇩 Indonesian
