@@ -13,7 +13,7 @@
 ### About Me 👨🏻
 
 - 👨🏻‍💼 My name is `Andi Nugroho`
-- 🏠 Live in `West Java, Indonesia`
+- 🏠 Live in `Planet Earth`
 - 🧍🏻‍♂️ `18` years old
 - 💻 `Informatics Engineering`  
 - 🌟 Currently, `Python`, and `TypeScript` are my favorite tech.
