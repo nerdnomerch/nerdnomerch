@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Andi Nugroho
+  UKIWSZ
 </h1>
 
 <!-- <a href='https://tfkhdyt.my.id'>
@@ -12,7 +12,7 @@
 
 ### About Me 👨🏻
 
-- 👨🏻‍💼 My name is `Andi Nugroho`
+- 👨🏻‍💼 My name is `UKIWSZ`
 - 🏠 Live in `Planet Earth`
 - 🧍🏻‍♂️ `18` years old
 - 💻 `Informatics Engineering`  
