@@ -32,7 +32,7 @@
 <a href="https://github.com/nerdnomerch/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
 </a>
-<a href="https://github.com/nerdnomerch/readme-components">
+<a href="https://github.com/nerdnomerch/">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 </a>
 </p>
