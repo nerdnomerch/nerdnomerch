@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Nerd</h1>
 <h3 align="center">I am a student, now an Intern</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andinugroho&label=Profile%20views&color=0e75b6&style=flat" alt="andinugroho" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ethereum&label=Profile%20views&color=0e75b6&style=flat" alt="ethereum" /> </p>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
