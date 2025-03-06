@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Ner </h1>
+<h1 align="center">Hello, I'm Nerd </h1>
 <h3 align="center">I am a student, now an Intern</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fajarramadhann&label=Profile%20views&color=0e75b6&style=flat" alt="fajarramadhann" /> </p>
