@@ -13,5 +13,6 @@
 
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="mailto:nerdnomerch@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/nerdnomerch" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></p>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
 
 ![web3_banner](https://github.com/user-attachments/assets/d8e06991-3a0e-445a-bf4a-e7106223e13a)
